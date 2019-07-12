@@ -8,4 +8,6 @@ line 7
 
 topic-A
 
-topic C
+topic-C
+topic-D
+topic-E
